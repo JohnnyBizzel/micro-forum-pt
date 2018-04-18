@@ -1,0 +1,46 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.corpo_forum{
+	margin: 20px auto auto auto;
+	padding:20px;
+	width:1000px;
+	font:12px tahoma;
+	background-color: rgb(220,220,220);
+	text-align:left;
+	border:1px solid black;
+	border-radius:10px;
+}
+
+.rodape{
+	margin:3px auto auto auto;
+	padding:20px;
+	background-color:black;
+	color:white;
+	font:0.9em tahoma;
+	text-align:center;
+	border-radius:10px;
+	width:1000px;
+}
+
+.form_login{
+	width:400px;
+	border:1px solid black;
+	margin:20px auto 20px auto;
+	padding:20px;
+	text-align:left;
+}
+
+input[type="submit"]{
+	width:120px;
+	padding:5px;
+}
+
+.error {
+	color: red;
+	font: bold 12px;
+	text-align: center;
+	margin: 20px auto;
+}
